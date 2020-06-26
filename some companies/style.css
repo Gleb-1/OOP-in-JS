@@ -1,0 +1,27 @@
+a {
+  text-decoration: none;
+}
+a:hover {
+  content: '';
+  text-decoration: underline;
+}
+
+table {
+  border-collapse: collapse;
+  border: 1px solid #7f7f7f;
+}
+
+table tr,
+td,
+th {
+  border: 1px solid #7f7f7f;
+}
+
+table td,
+th {
+  padding: 10px;
+}
+
+table th {
+  text-transform: uppercase;
+}

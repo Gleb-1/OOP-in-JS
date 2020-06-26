@@ -1,0 +1,11 @@
+.text-center {
+  text-align: center;
+  list-style-type: none;
+}
+.bold {
+  font-weight: bold;
+}
+
+.text-red {
+  color: red;
+}
